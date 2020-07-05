@@ -194,6 +194,7 @@
         <entry field="true" id="8389157" symbol="COLOR_WHITE"/>
         <entry field="true" id="40" symbol="No"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="43" symbol="YesSeconds"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry field="true" id="39" symbol="TimeMinColor"/>
         <entry id="8389068" method="true" symbol="draw"/>
@@ -210,15 +211,15 @@
         <entry field="true" id="11" symbol="dateY"/>
         <entry field="true" id="10" symbol="dateX"/>
         <entry id="8388702" method="true" symbol="initialize"/>
-        <entry field="true" id="44" symbol="AppName"/>
+        <entry field="true" id="45" symbol="AppName"/>
         <entry field="true" id="14" symbol="colorHour"/>
         <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
-        <entry id="53" method="true" symbol="&lt;globals/GarminIWatch1View/&lt;&gt;setBatteryDisplay&gt;"/>
+        <entry id="54" method="true" symbol="&lt;globals/GarminIWatch1View/&lt;&gt;setBatteryDisplay&gt;"/>
         <entry field="true" id="8389163" symbol="COLOR_ORANGE"/>
-        <entry field="true" id="43" symbol="TimeHourColor"/>
+        <entry field="true" id="44" symbol="TimeHourColor"/>
         <entry field="true" id="8389164" symbol="COLOR_YELLOW"/>
         <entry id="8390146" module="true" object="true" symbol="Background"/>
-        <entry field="true" id="46" symbol="DisplayBatteryLevelOnlyWhenLow"/>
+        <entry field="true" id="47" symbol="DisplayBatteryLevelOnlyWhenLow"/>
         <entry field="true" id="38" symbol="LauncherIcon"/>
         <entry field="true" id="37" symbol="Calories"/>
         <entry id="8389683" method="true" symbol="onSettingsChanged"/>
@@ -232,7 +233,7 @@
         <entry field="true" id="8389064" symbol="locX"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
         <entry id="8389122" method="true" symbol="onLayout"/>
-        <entry field="true" id="48" symbol="settings"/>
+        <entry field="true" id="49" symbol="settings"/>
         <entry field="true" id="9" symbol="UPDATE_INTERVAL_MIN"/>
         <entry id="8389279" method="true" symbol="onStart"/>
         <entry field="true" id="34" symbol="Bluetooth"/>
@@ -243,8 +244,8 @@
         <entry id="8389347" symbol="color"/>
         <entry field="true" id="18" symbol="timeSecY"/>
         <entry field="true" id="17" symbol="timeSecX"/>
-        <entry field="true" id="49" symbol="myBitmap"/>
-        <entry field="true" id="51" symbol="bitmapIcons"/>
+        <entry field="true" id="50" symbol="myBitmap"/>
+        <entry field="true" id="52" symbol="bitmapIcons"/>
         <entry field="true" id="13" symbol="timeHourY"/>
         <entry field="true" id="12" symbol="timeHourX"/>
         <entry id="29" module="true" symbol="Layouts"/>
@@ -258,13 +259,13 @@
         <entry field="true" id="22" symbol="moveAlertY"/>
         <entry field="true" id="21" symbol="moveAlertX"/>
         <entry id="23" method="true" symbol="drawStat"/>
-        <entry field="true" id="50" symbol="bitmapbBattStatus"/>
+        <entry field="true" id="51" symbol="bitmapbBattStatus"/>
         <entry id="30" module="true" symbol="Menus"/>
-        <entry field="true" id="47" symbol="DisplaySeconds"/>
+        <entry field="true" id="48" symbol="DisplaySeconds"/>
         <entry field="true" id="36" symbol="Steps"/>
         <entry field="true" id="35" symbol="FloorsClimbed"/>
-        <entry id="52" method="true" symbol="initDevice"/>
-        <entry field="true" id="45" symbol="AlwaysDisplayBatteryLevel"/>
+        <entry id="53" method="true" symbol="initDevice"/>
+        <entry field="true" id="46" symbol="AlwaysDisplayBatteryLevel"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
         <entry id="8388635" module="true" symbol="Application"/>
     </symbolTable>
@@ -329,8 +330,8 @@
         <dataEntry offset="593" parentId="Rez" symbolId="Layouts" type="module"/>
         <dataEntry offset="632" parentId="Rez" symbolId="JsonData" type="module"/>
         <dataEntry offset="663" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry offset="870" parentId="globals" symbolId="GarminIWatch1App" type="class"/>
-        <dataEntry offset="949" parentId="globals" symbolId="GarminIWatch1View" type="class"/>
+        <dataEntry offset="878" parentId="globals" symbolId="GarminIWatch1App" type="class"/>
+        <dataEntry offset="957" parentId="globals" symbolId="GarminIWatch1View" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
         <functionEntry accessMode="public" name="drawStat">

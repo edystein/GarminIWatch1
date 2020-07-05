@@ -1,6 +1,8 @@
 <strings>
     <string id="AppName">garmin_iwatch_face</string>
-    <string id="Yes">Yes (only when user active and watch not on in low power mode)</string>
+    <string id="Yes">Yes</string>
+    <string id="YesSeconds">Yes, only when user is active</string>
+    
     <string id="No">No</string>
     <string id="DisplaySeconds">Display seconds?</string>
     <string id="TimeHourColor">Time color: hour</string>

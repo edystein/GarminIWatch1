@@ -3,7 +3,7 @@
 <setting propertyKey="@Properties.DisplaySeconds" title="@Strings.DisplaySeconds">
         <settingConfig type="list">
             <listEntry value="0x00">@Strings.No</listEntry>
-            <listEntry value="0x1">@Strings.Yes</listEntry>
+            <listEntry value="0x1">@Strings.YesSeconds</listEntry>
         </settingConfig>
     </setting>
 
