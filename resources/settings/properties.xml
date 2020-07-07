@@ -4,7 +4,7 @@
     <property id="MoveAlertColor" type="number">0xFF00FF</property>
 
     
-    <property id="DisplaySeconds" type="number">0x00</property>
+    <property id="DisplaySeconds" type="number">0x1</property>
     <property id="AlwaysDisplayBatteryLevel" type="number">0x1</property>
 
    </properties>
