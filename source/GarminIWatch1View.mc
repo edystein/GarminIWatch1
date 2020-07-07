@@ -27,11 +27,6 @@ var moveAlertX = 120;
 var moveAlertY= 205;
 
 
-
-
-
-
-
 function drawStat(stat, dc, settings, bitmapIcons){
 	// draw floors climbed
 	if (stat.equals("floorsClimbed")){
@@ -270,6 +265,8 @@ class GarminIWatch1View  extends WatchUi.WatchFace {
 //        var view = View.findDrawableById("TimeLabel");
 //        view.setText(timeString);
 
+//    	System.println( "------ on update Called     ------");
+    	dc.clearClip();
 
 		// init device
 		//////////////////////////
@@ -313,14 +310,15 @@ class GarminIWatch1View  extends WatchUi.WatchFace {
         view.setColor(App.getApp().getProperty("TimeMinColor"));
         view.setText(timeString);
  
-		timeString = ""; 
-		if (1 == App.getApp().getProperty("DisplaySeconds")){
-			timeString = System.getClockTime().sec.format("%02d");
-		}
-        view = View.findDrawableById("TimeLabelSec");
-        view.setColor(App.getApp().getProperty("TimeMinColor"));
-        view.setText(timeString);
- 
+//		timeString = ""; 
+//		if (1 == App.getApp().getProperty("DisplaySeconds")){
+//			timeString = System.getClockTime().sec.format("%02d");
+//		}
+//        view = View.findDrawableById("TimeLabelSec");
+//        view.setColor(App.getApp().getProperty("TimeMinColor"));
+//        view.setText(timeString);
+
+
 		// update date
 		//////////////////////////////////////////		
         view = View.findDrawableById("Date");
@@ -384,7 +382,7 @@ class GarminIWatch1View  extends WatchUi.WatchFace {
 		///////////////////////////
 		drawStat(stat, dc, settings, bitmapIcons);
 		
-//		onPartialUpdate( dc );				
+		onPartialUpdate( dc );				
 		return;
     }
 
@@ -409,30 +407,25 @@ class GarminIWatch1View  extends WatchUi.WatchFace {
     function onEnterSleep() {
     }
 
-//    // Handle the partial update event
-//    function onPartialUpdate( dc ) {
-//		var secString = ""; 
-////		if (1 == App.getApp().getProperty("DisplaySeconds")){
-////			secString = System.getClockTime().sec.format("%02d");
-////		}
-//		if (System.getClockTime().sec > 10){
-//			return;
-//		}
-//		secString = System.getClockTime().sec.format("%02d");
-//
-//		timeSecX = 50;
-//		timeSecY = 100;
-//	    dc.setClip(timeSecX -20, timeSecY - 20, 40, 60);
+    // Handle the partial update event
+    function onPartialUpdate( dc ) {
+		var secString = ""; 
+		if (1 == App.getApp().getProperty("DisplaySeconds")){
+			secString = System.getClockTime().sec.format("%02d");
+		}
+
+	    dc.setClip(timeSecX -20, timeSecY - 20, 40, 60);
 //	    dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_RED);
-//	    dc.drawText(
-//	        timeSecX,                      // gets the width of the device and divides by 2
-//	        timeSecY,                     // gets the height of the device and divides by 2
-//	        Graphics.FONT_TINY,                    // sets the font size
-//	        secString,                          // the String to display
-//	        Graphics.TEXT_JUSTIFY_RIGHT            // sets the justification for the text
-//	        );
-//		System.println( "on partialUpdate call, sec = " + System.getClockTime().sec.format("%02d") );
-//		return;
-//	}
+	    dc.setColor(App.getApp().getProperty("TimeMinColor"), Graphics.COLOR_BLACK);
+	    dc.drawText(
+	        timeSecX,       			               // gets the width of the device and divides by 2
+	        timeSecY		,           	          // gets the height of the device and divides by 2
+	        Graphics.FONT_SYSTEM_MEDIUM,                    	// sets the font size
+	        secString,                          	// the String to display
+	        Graphics.TEXT_JUSTIFY_CENTER	// sets the justification for the text
+	        );
+		System.println( "on partialUpdate call, sec = " + System.getClockTime().hour + " : " + System.getClockTime().min + " : " + System.getClockTime().sec);
+		return;
+	}
 }
 

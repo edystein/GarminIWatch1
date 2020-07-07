@@ -12,6 +12,9 @@ one rotating field to keep a clean look.
 - Support fr245, fr935 & fr945
 
  
+### V1.2.0
+- seconds low power display bugfix  
+
 ### V1.0.4
 - support seconds update  
 

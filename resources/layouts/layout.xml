@@ -2,7 +2,7 @@
     <label id="Date" x="dateX" y="dateY" font="Graphics.FONT_SYSTEM_SMALL" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
     <label id="TimeLabelHour" x="timeHourX" y="timeHourY" font="Graphics.FONT_SYSTEM_NUMBER_THAI_HOT" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
     <label id="TimeLabelMin" x="timeMinX" y="timeMinY" font="Graphics.FONT_SYSTEM_NUMBER_THAI_HOT" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
-    <label id="TimeLabelSec" x="timeSecX" y="timeSecY" font="Graphics.FONT_SYSTEM_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+<!--     <label id="TimeLabelSec" x="timeSecX" y="timeSecY" font="Graphics.FONT_SYSTEM_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" /> -->
 
 <!--     <label id="DailyStat" x="87%" y="55%" font="Graphics.FONT_SYSTEM_SMALL" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" /> -->
 0

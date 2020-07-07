@@ -1,177 +1,181 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
     <pcToLineNum>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="2" lineNum="35" pc="268435456" symbol="drawStat"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="2" lineNum="37" pc="268435468" symbol="drawStat"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="2" lineNum="38" pc="268435487" symbol="drawStat"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="2" lineNum="44" pc="268435538" symbol="drawStat"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="2" lineNum="45" pc="268435557" symbol="drawStat"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="2" lineNum="51" pc="268435608" symbol="drawStat"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="2" lineNum="52" pc="268435627" symbol="drawStat"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="3" lineNum="64" pc="268435679" symbol="getDate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="3" lineNum="65" pc="268435691" symbol="getDate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="3" lineNum="66" pc="268435735" symbol="getDate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="3" lineNum="73" pc="268435795" symbol="getDate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="77" pc="268435799" symbol="dailyMonitorGetActivities"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="79" pc="268435811" symbol="dailyMonitorGetActivities"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="80" pc="268435818" symbol="dailyMonitorGetActivities"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="82" pc="268435826" symbol="dailyMonitorGetActivities"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="83" pc="268435826" symbol="dailyMonitorGetActivities"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="84" pc="268435857" symbol="dailyMonitorGetActivities"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="86" pc="268435902" symbol="dailyMonitorGetActivities"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="90" pc="268435941" symbol="dailyMonitorGetActivities"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="91" pc="268435941" symbol="dailyMonitorGetActivities"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="92" pc="268435972" symbol="dailyMonitorGetActivities"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="94" pc="268436017" symbol="dailyMonitorGetActivities"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="98" pc="268436056" symbol="dailyMonitorGetActivities"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="99" pc="268436056" symbol="dailyMonitorGetActivities"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="100" pc="268436087" symbol="dailyMonitorGetActivities"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="102" pc="268436132" symbol="dailyMonitorGetActivities"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="105" pc="268436171" symbol="dailyMonitorGetActivities"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="106" pc="268436213" symbol="dailyMonitorGetActivities"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="110" pc="268436217" symbol="dailyStatGetText"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="111" pc="268436229" symbol="dailyStatGetText"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="113" pc="268436236" symbol="dailyStatGetText"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="114" pc="268436255" symbol="dailyStatGetText"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="118" pc="268436304" symbol="dailyStatGetText"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="119" pc="268436323" symbol="dailyStatGetText"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="120" pc="268436354" symbol="dailyStatGetText"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="121" pc="268436379" symbol="dailyStatGetText"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="123" pc="268436489" symbol="dailyStatGetText"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="130" pc="268436599" symbol="dailyStatGetText"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="131" pc="268436618" symbol="dailyStatGetText"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="135" pc="268436661" symbol="dailyStatGetText"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="7" lineNum="152" pc="268436665" symbol="initialize"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="7" lineNum="153" pc="268436669" symbol="initialize"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="7" lineNum="154" pc="268436687" symbol="initialize"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="7" lineNum="155" pc="268436721" symbol="initialize"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="160" pc="268436752" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="163" pc="268436756" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="164" pc="268436773" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="167" pc="268436783" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="168" pc="268436790" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="170" pc="268436809" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="171" pc="268436819" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="173" pc="268436838" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="174" pc="268436848" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="176" pc="268436867" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="177" pc="268436877" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="179" pc="268436896" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="181" pc="268436906" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="188" pc="268436930" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="189" pc="268436971" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="190" pc="268436984" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="191" pc="268436997" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="192" pc="268437010" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="193" pc="268437023" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="194" pc="268437047" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="195" pc="268437075" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="196" pc="268437099" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="201" pc="268437130" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="203" pc="268437149" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="204" pc="268437170" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="205" pc="268437183" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="206" pc="268437196" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="207" pc="268437209" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="208" pc="268437222" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="209" pc="268437235" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="210" pc="268437248" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="211" pc="268437272" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="212" pc="268437300" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="214" pc="268437324" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="215" pc="268437348" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="216" pc="268437376" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="225" pc="268437403" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="226" pc="268437450" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="227" pc="268437491" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="229" pc="268437547" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="232" pc="268437587" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="233" pc="268437604" symbol="initDevice"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="9" lineNum="239" pc="268437664" symbol="onLayout"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="9" lineNum="241" pc="268437668" symbol="onLayout"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="9" lineNum="242" pc="268437711" symbol="onLayout"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="9" lineNum="248" pc="268437854" symbol="onLayout"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="9" lineNum="255" pc="268438040" symbol="onLayout"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="10" lineNum="261" pc="268438078" symbol="onShow"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="265" pc="268438083" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="276" pc="268438087" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="277" pc="268438119" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="283" pc="268438142" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="284" pc="268438159" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="299" pc="268438211" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="300" pc="268438248" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="301" pc="268438272" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="306" pc="268438297" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="307" pc="268438341" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="308" pc="268438365" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="309" pc="268438406" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="311" pc="268438420" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="312" pc="268438478" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="313" pc="268438502" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="314" pc="268438543" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="316" pc="268438557" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="317" pc="268438564" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="318" pc="268438602" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="320" pc="268438642" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="321" pc="268438666" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="322" pc="268438707" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="326" pc="268438721" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="327" pc="268438745" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="331" pc="268438768" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="332" pc="268438799" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="333" pc="268438806" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="334" pc="268438830" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="335" pc="268438860" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="342" pc="268438901" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="344" pc="268438921" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="345" pc="268438944" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="347" pc="268438975" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="348" pc="268439001" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="350" pc="268439011" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="351" pc="268439035" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="352" pc="268439052" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="353" pc="268439063" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="354" pc="268439063" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="355" pc="268439097" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="356" pc="268439131" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="358" pc="268439157" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="359" pc="268439190" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="361" pc="268439216" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="362" pc="268439246" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="365" pc="268439283" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="368" pc="268439341" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="369" pc="268439368" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="375" pc="268439401" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="376" pc="268439418" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="377" pc="268439429" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="385" pc="268439522" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="388" pc="268439554" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="13" lineNum="401" pc="268439642" symbol="onHide"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="14" lineNum="405" pc="268439647" symbol="onExitSleep"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="15" lineNum="409" pc="268439652" symbol="onEnterSleep"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1App.mc" id="17" lineNum="6" pc="268439657" symbol="initialize"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1App.mc" id="17" lineNum="7" pc="268439661" symbol="initialize"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1App.mc" id="18" lineNum="11" pc="268439680" symbol="onStart"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1App.mc" id="19" lineNum="15" pc="268439685" symbol="onStop"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1App.mc" id="20" lineNum="19" pc="268439690" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1App.mc" id="20" lineNum="20" pc="268439694" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1App.mc" id="21" lineNum="24" pc="268439732" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1App.mc" id="21" lineNum="25" pc="268439736" symbol="onSettingsChanged"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1Background.mc" id="23" lineNum="7" pc="268439753" symbol="initialize"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1Background.mc" id="23" lineNum="8" pc="268439757" symbol="initialize"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1Background.mc" id="23" lineNum="12" pc="268439778" symbol="initialize"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1Background.mc" id="24" lineNum="15" pc="268439799" symbol="draw"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1Background.mc" id="24" lineNum="17" pc="268439803" symbol="draw"/>
-        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1Background.mc" id="24" lineNum="18" pc="268439856" symbol="draw"/>
-        <entry filename="Rez" id="30" lineNum="22" pc="268439869" symbol="WatchFace"/>
-        <entry filename="Rez" id="30" lineNum="25" pc="268439881" symbol="WatchFace"/>
-        <entry filename="Rez" id="30" lineNum="26" pc="268440020" symbol="WatchFace"/>
-        <entry filename="Rez" id="30" lineNum="27" pc="268440159" symbol="WatchFace"/>
-        <entry filename="Rez" id="30" lineNum="28" pc="268440298" symbol="WatchFace"/>
-        <entry filename="Rez" id="30" lineNum="29" pc="268440437" symbol="WatchFace"/>
-        <entry filename="Rez" id="30" lineNum="30" pc="268440576" symbol="WatchFace"/>
-        <entry filename="Rez" id="30" lineNum="31" pc="268440715" symbol="WatchFace"/>
-        <entry filename="Rez" id="30" lineNum="33" pc="268440848" symbol="WatchFace"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="2" lineNum="30" pc="268435456" symbol="drawStat"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="2" lineNum="32" pc="268435468" symbol="drawStat"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="2" lineNum="33" pc="268435487" symbol="drawStat"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="2" lineNum="39" pc="268435538" symbol="drawStat"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="2" lineNum="40" pc="268435557" symbol="drawStat"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="2" lineNum="46" pc="268435608" symbol="drawStat"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="2" lineNum="47" pc="268435627" symbol="drawStat"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="3" lineNum="59" pc="268435679" symbol="getDate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="3" lineNum="60" pc="268435691" symbol="getDate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="3" lineNum="61" pc="268435735" symbol="getDate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="3" lineNum="68" pc="268435795" symbol="getDate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="72" pc="268435799" symbol="dailyMonitorGetActivities"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="74" pc="268435811" symbol="dailyMonitorGetActivities"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="75" pc="268435818" symbol="dailyMonitorGetActivities"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="77" pc="268435826" symbol="dailyMonitorGetActivities"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="78" pc="268435826" symbol="dailyMonitorGetActivities"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="79" pc="268435857" symbol="dailyMonitorGetActivities"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="81" pc="268435902" symbol="dailyMonitorGetActivities"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="85" pc="268435941" symbol="dailyMonitorGetActivities"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="86" pc="268435941" symbol="dailyMonitorGetActivities"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="87" pc="268435972" symbol="dailyMonitorGetActivities"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="89" pc="268436017" symbol="dailyMonitorGetActivities"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="93" pc="268436056" symbol="dailyMonitorGetActivities"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="94" pc="268436056" symbol="dailyMonitorGetActivities"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="95" pc="268436087" symbol="dailyMonitorGetActivities"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="97" pc="268436132" symbol="dailyMonitorGetActivities"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="100" pc="268436171" symbol="dailyMonitorGetActivities"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="4" lineNum="101" pc="268436213" symbol="dailyMonitorGetActivities"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="105" pc="268436217" symbol="dailyStatGetText"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="106" pc="268436229" symbol="dailyStatGetText"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="108" pc="268436236" symbol="dailyStatGetText"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="109" pc="268436255" symbol="dailyStatGetText"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="113" pc="268436304" symbol="dailyStatGetText"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="114" pc="268436323" symbol="dailyStatGetText"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="115" pc="268436354" symbol="dailyStatGetText"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="116" pc="268436379" symbol="dailyStatGetText"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="118" pc="268436489" symbol="dailyStatGetText"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="125" pc="268436599" symbol="dailyStatGetText"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="126" pc="268436618" symbol="dailyStatGetText"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="5" lineNum="130" pc="268436661" symbol="dailyStatGetText"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="7" lineNum="147" pc="268436665" symbol="initialize"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="7" lineNum="148" pc="268436669" symbol="initialize"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="7" lineNum="149" pc="268436687" symbol="initialize"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="7" lineNum="150" pc="268436721" symbol="initialize"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="155" pc="268436752" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="158" pc="268436756" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="159" pc="268436773" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="162" pc="268436783" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="163" pc="268436790" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="165" pc="268436809" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="166" pc="268436819" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="168" pc="268436838" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="169" pc="268436848" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="171" pc="268436867" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="172" pc="268436877" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="174" pc="268436896" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="176" pc="268436906" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="183" pc="268436930" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="184" pc="268436971" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="185" pc="268436984" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="186" pc="268436997" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="187" pc="268437010" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="188" pc="268437023" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="189" pc="268437047" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="190" pc="268437075" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="191" pc="268437099" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="196" pc="268437130" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="198" pc="268437149" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="199" pc="268437170" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="200" pc="268437183" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="201" pc="268437196" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="202" pc="268437209" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="203" pc="268437222" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="204" pc="268437235" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="205" pc="268437248" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="206" pc="268437272" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="207" pc="268437300" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="209" pc="268437324" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="210" pc="268437348" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="211" pc="268437376" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="220" pc="268437403" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="221" pc="268437450" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="222" pc="268437491" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="224" pc="268437547" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="227" pc="268437587" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="8" lineNum="228" pc="268437604" symbol="initDevice"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="9" lineNum="234" pc="268437664" symbol="onLayout"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="9" lineNum="236" pc="268437668" symbol="onLayout"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="9" lineNum="237" pc="268437711" symbol="onLayout"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="9" lineNum="243" pc="268437854" symbol="onLayout"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="9" lineNum="250" pc="268438040" symbol="onLayout"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="10" lineNum="256" pc="268438078" symbol="onShow"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="260" pc="268438083" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="269" pc="268438087" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="273" pc="268438099" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="274" pc="268438131" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="280" pc="268438154" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="281" pc="268438171" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="296" pc="268438223" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="297" pc="268438260" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="298" pc="268438284" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="303" pc="268438309" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="304" pc="268438353" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="305" pc="268438377" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="306" pc="268438418" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="308" pc="268438432" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="309" pc="268438490" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="310" pc="268438514" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="311" pc="268438555" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="324" pc="268438569" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="325" pc="268438593" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="329" pc="268438616" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="330" pc="268438647" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="331" pc="268438654" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="332" pc="268438678" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="333" pc="268438708" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="340" pc="268438749" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="342" pc="268438769" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="343" pc="268438792" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="345" pc="268438823" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="346" pc="268438849" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="348" pc="268438859" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="349" pc="268438883" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="350" pc="268438900" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="351" pc="268438911" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="352" pc="268438911" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="353" pc="268438945" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="354" pc="268438979" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="356" pc="268439005" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="357" pc="268439038" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="359" pc="268439064" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="360" pc="268439094" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="363" pc="268439131" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="366" pc="268439189" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="367" pc="268439216" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="373" pc="268439249" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="374" pc="268439266" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="375" pc="268439277" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="383" pc="268439370" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="385" pc="268439402" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="11" lineNum="386" pc="268439416" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="13" lineNum="399" pc="268439504" symbol="onHide"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="14" lineNum="403" pc="268439509" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="15" lineNum="407" pc="268439514" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="16" lineNum="411" pc="268439519" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="16" lineNum="412" pc="268439523" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="16" lineNum="413" pc="268439530" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="16" lineNum="414" pc="268439568" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="16" lineNum="417" pc="268439608" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="16" lineNum="419" pc="268439658" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="16" lineNum="420" pc="268439711" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="16" lineNum="427" pc="268439765" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1View.mc" id="16" lineNum="428" pc="268439864" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1App.mc" id="18" lineNum="6" pc="268439866" symbol="initialize"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1App.mc" id="18" lineNum="7" pc="268439870" symbol="initialize"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1App.mc" id="19" lineNum="11" pc="268439889" symbol="onStart"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1App.mc" id="20" lineNum="15" pc="268439894" symbol="onStop"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1App.mc" id="21" lineNum="19" pc="268439899" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1App.mc" id="21" lineNum="20" pc="268439903" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1App.mc" id="22" lineNum="24" pc="268439941" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1App.mc" id="22" lineNum="25" pc="268439945" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1Background.mc" id="24" lineNum="7" pc="268439962" symbol="initialize"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1Background.mc" id="24" lineNum="8" pc="268439966" symbol="initialize"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1Background.mc" id="24" lineNum="12" pc="268439987" symbol="initialize"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1Background.mc" id="25" lineNum="15" pc="268440008" symbol="draw"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1Background.mc" id="25" lineNum="17" pc="268440012" symbol="draw"/>
+        <entry filename="C:\\Users\\USER\\eclipse-workspace\\GarminIWatch1\\source\\GarminIWatch1Background.mc" id="25" lineNum="18" pc="268440065" symbol="draw"/>
+        <entry filename="Rez" id="31" lineNum="22" pc="268440078" symbol="WatchFace"/>
+        <entry filename="Rez" id="31" lineNum="25" pc="268440090" symbol="WatchFace"/>
+        <entry filename="Rez" id="31" lineNum="26" pc="268440229" symbol="WatchFace"/>
+        <entry filename="Rez" id="31" lineNum="27" pc="268440368" symbol="WatchFace"/>
+        <entry filename="Rez" id="31" lineNum="28" pc="268440507" symbol="WatchFace"/>
+        <entry filename="Rez" id="31" lineNum="29" pc="268440646" symbol="WatchFace"/>
+        <entry filename="Rez" id="31" lineNum="30" pc="268440785" symbol="WatchFace"/>
+        <entry filename="Rez" id="31" lineNum="32" pc="268440918" symbol="WatchFace"/>
     </pcToLineNum>
     <symbolTable>
         <entry field="true" id="8389168" symbol="COLOR_DK_BLUE"/>
@@ -290,32 +294,33 @@
         <entry endPc="268437663" name="clockTime" stackId="8" startPc="268436756"/>
         <entry endPc="268437664" name="settings" stackId="1" startPc="268436752"/>
         <entry endPc="268438078" name="dc" stackId="1" startPc="268437664"/>
-        <entry endPc="268439313" name="x" stackId="10" startPc="268439063"/>
-        <entry endPc="268439313" name="y" stackId="11" startPc="268439063"/>
-        <entry endPc="268439555" name="timeString" stackId="5" startPc="268438087"/>
-        <entry endPc="268439555" name="mySettings" stackId="13" startPc="268438087"/>
-        <entry endPc="268439555" name="moveString" stackId="7" startPc="268438087"/>
-        <entry endPc="268439555" name="moveBar" stackId="6" startPc="268438087"/>
-        <entry endPc="268439555" name="clockTime" stackId="2" startPc="268438087"/>
-        <entry endPc="268439555" name="stat" stackId="3" startPc="268438087"/>
-        <entry endPc="268439555" name="battery" stackId="8" startPc="268438087"/>
-        <entry endPc="268439555" name="view" stackId="4" startPc="268438087"/>
-        <entry endPc="268439555" name="dispBatStatus" stackId="9" startPc="268438087"/>
-        <entry endPc="268439556" name="dc" stackId="1" startPc="268438083"/>
-        <entry endPc="268439641" name="battery" stackId="1" startPc="268439560"/>
-        <entry endPc="268439641" name="batteryDisplay" stackId="2" startPc="268439560"/>
-        <entry endPc="268439685" name="state" stackId="1" startPc="268439680"/>
-        <entry endPc="268439690" name="state" stackId="1" startPc="268439685"/>
-        <entry endPc="268439798" name="dictionary" stackId="1" startPc="268439757"/>
-        <entry endPc="268439869" name="dc" stackId="1" startPc="268439799"/>
-        <entry endPc="268440925" name="rez_cmp_local_text_TimeLabelMin" stackId="4" startPc="268439881"/>
-        <entry endPc="268440925" name="rez_cmp_local_text_TimeLabelSec" stackId="5" startPc="268439881"/>
-        <entry endPc="268440925" name="rez_cmp_local_text_TimeLabelHour" stackId="3" startPc="268439881"/>
-        <entry endPc="268440925" name="rez_cmp_local_text_Date" stackId="2" startPc="268439881"/>
-        <entry endPc="268440925" name="rez_cmp_local_text_DailyStat" stackId="6" startPc="268439881"/>
-        <entry endPc="268440925" name="rez_cmp_local_text_moveAlert" stackId="7" startPc="268439881"/>
-        <entry endPc="268440925" name="rez_cmp_local_text_BatteryLevel" stackId="8" startPc="268439881"/>
-        <entry endPc="268440926" name="dc" stackId="1" startPc="268439869"/>
+        <entry endPc="268439161" name="x" stackId="10" startPc="268438911"/>
+        <entry endPc="268439161" name="y" stackId="11" startPc="268438911"/>
+        <entry endPc="268439417" name="timeString" stackId="5" startPc="268438087"/>
+        <entry endPc="268439417" name="mySettings" stackId="13" startPc="268438087"/>
+        <entry endPc="268439417" name="moveString" stackId="7" startPc="268438087"/>
+        <entry endPc="268439417" name="moveBar" stackId="6" startPc="268438087"/>
+        <entry endPc="268439417" name="clockTime" stackId="2" startPc="268438087"/>
+        <entry endPc="268439417" name="stat" stackId="3" startPc="268438087"/>
+        <entry endPc="268439417" name="battery" stackId="8" startPc="268438087"/>
+        <entry endPc="268439417" name="view" stackId="4" startPc="268438087"/>
+        <entry endPc="268439417" name="dispBatStatus" stackId="9" startPc="268438087"/>
+        <entry endPc="268439418" name="dc" stackId="1" startPc="268438083"/>
+        <entry endPc="268439503" name="battery" stackId="1" startPc="268439422"/>
+        <entry endPc="268439503" name="batteryDisplay" stackId="2" startPc="268439422"/>
+        <entry endPc="268439865" name="secString" stackId="2" startPc="268439523"/>
+        <entry endPc="268439866" name="dc" stackId="1" startPc="268439519"/>
+        <entry endPc="268439894" name="state" stackId="1" startPc="268439889"/>
+        <entry endPc="268439899" name="state" stackId="1" startPc="268439894"/>
+        <entry endPc="268440007" name="dictionary" stackId="1" startPc="268439966"/>
+        <entry endPc="268440078" name="dc" stackId="1" startPc="268440008"/>
+        <entry endPc="268440985" name="rez_cmp_local_text_TimeLabelMin" stackId="4" startPc="268440090"/>
+        <entry endPc="268440985" name="rez_cmp_local_text_TimeLabelHour" stackId="3" startPc="268440090"/>
+        <entry endPc="268440985" name="rez_cmp_local_text_Date" stackId="2" startPc="268440090"/>
+        <entry endPc="268440985" name="rez_cmp_local_text_DailyStat" stackId="5" startPc="268440090"/>
+        <entry endPc="268440985" name="rez_cmp_local_text_moveAlert" stackId="6" startPc="268440090"/>
+        <entry endPc="268440985" name="rez_cmp_local_text_BatteryLevel" stackId="7" startPc="268440090"/>
+        <entry endPc="268440986" name="dc" stackId="1" startPc="268440078"/>
     </localVars>
     <annotations/>
     <dataEntryOffsetMappings>
@@ -378,6 +383,10 @@
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="onEnterSleep" parent="GarminIWatch1View">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPartialUpdate" parent="GarminIWatch1View">
+            <param id="dc"/>
             <documentation/>
         </functionEntry>
         <functionEntry accessMode="public" name="initialize" parent="GarminIWatch1App">
