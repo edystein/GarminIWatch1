@@ -19,6 +19,7 @@ var timeMinX = 120;
 var timeMinY= 145;
 var timeSecX = 175;
 var timeSecY= 174;
+var partialUpdatesAllowed = false;
 
 var dailyStatX = 200;
 var dailyStatY = 117;
@@ -150,6 +151,9 @@ class GarminIWatch1View  extends WatchUi.WatchFace {
 
     function initialize() {
         WatchFace.initialize();
+        partialUpdatesAllowed = ( Toybox.WatchUi.WatchFace has :onPartialUpdate );
+        System.println("partialUpdatesAllowed : " + partialUpdatesAllowed );
+        
     }
 
 
@@ -190,8 +194,8 @@ class GarminIWatch1View  extends WatchUi.WatchFace {
 			view.setLocation(timeHourX, timeHourY);
 			view = View.findDrawableById("TimeLabelMin");
 			view.setLocation(timeMinX, timeMinY);
-			view = View.findDrawableById("TimeLabelSec");
-			view.setLocation(timeSecX, timeSecY);
+//			view = View.findDrawableById("TimeLabelSec");
+//			view.setLocation(timeSecX, timeSecY);
 			
 		} 
 		else if ("fr235".equals(device)){
@@ -211,8 +215,8 @@ class GarminIWatch1View  extends WatchUi.WatchFace {
 			view.setLocation(timeMinX, timeMinY);
 			view.setFont(Graphics.FONT_SYSTEM_NUMBER_THAI_HOT   );
 
-			view = View.findDrawableById("TimeLabelSec");
-			view.setLocation(timeSecX, timeSecY);
+//			view = View.findDrawableById("TimeLabelSec");
+//			view.setLocation(timeSecX, timeSecY);
 		} 
 	
 		
@@ -266,6 +270,7 @@ class GarminIWatch1View  extends WatchUi.WatchFace {
 //        var view = View.findDrawableById("TimeLabel");
 //        view.setText(timeString);
 
+
 		// init device
 		//////////////////////////
 		if (0 == settings["daily_monitor"].size()){
@@ -275,7 +280,7 @@ class GarminIWatch1View  extends WatchUi.WatchFace {
 		// daily monitor: get stattistics type to be displayed first
 		// set first due to delay issues				
 		///////////////////////////
-        var clockTime = System.getClockTime();
+		var clockTime = System.getClockTime();
         settings["daily_monitor_currently_displayed"]["indx"] = clockTime.min % settings["daily_monitor"].size();
 		// replace the below mechanism since garmin sends unexpected init to app        
 		//		var time_stat_change = (settings["daily_monitor_currently_displayed"]["last_update_min"] +  settings["daily_monitor_currently_displayed"]["update_interval_min"]) % 60;
@@ -300,23 +305,22 @@ class GarminIWatch1View  extends WatchUi.WatchFace {
 		//////////////////////////
         var timeString = Lang.format("$1$", [clockTime.hour]);
         view = View.findDrawableById("TimeLabelHour");
-        view.setText(timeString);
         view.setColor(App.getApp().getProperty("TimeHourColor"));
+        view.setText(timeString);
 
         timeString = Lang.format("$1$", [clockTime.min.format("%02d")]);
         view = View.findDrawableById("TimeLabelMin");
+        view.setColor(App.getApp().getProperty("TimeMinColor"));
         view.setText(timeString);
-        view.setColor(App.getApp().getProperty("TimeMinColor"));
-
-		var secString = ""; 
+ 
+		timeString = ""; 
 		if (1 == App.getApp().getProperty("DisplaySeconds")){
-			secString = Lang.format("$1$", [clockTime.sec.format("%02d")]);
-		}         
+			timeString = System.getClockTime().sec.format("%02d");
+		}
         view = View.findDrawableById("TimeLabelSec");
-        view.setText(secString);
         view.setColor(App.getApp().getProperty("TimeMinColor"));
-        
-
+        view.setText(timeString);
+ 
 		// update date
 		//////////////////////////////////////////		
         view = View.findDrawableById("Date");
@@ -378,8 +382,9 @@ class GarminIWatch1View  extends WatchUi.WatchFace {
 
 		// daily stat: display bitmap
 		///////////////////////////
-		drawStat(stat, dc, settings, bitmapIcons);				
-
+		drawStat(stat, dc, settings, bitmapIcons);
+		
+//		onPartialUpdate( dc );				
 		return;
     }
 
@@ -404,5 +409,30 @@ class GarminIWatch1View  extends WatchUi.WatchFace {
     function onEnterSleep() {
     }
 
+//    // Handle the partial update event
+//    function onPartialUpdate( dc ) {
+//		var secString = ""; 
+////		if (1 == App.getApp().getProperty("DisplaySeconds")){
+////			secString = System.getClockTime().sec.format("%02d");
+////		}
+//		if (System.getClockTime().sec > 10){
+//			return;
+//		}
+//		secString = System.getClockTime().sec.format("%02d");
+//
+//		timeSecX = 50;
+//		timeSecY = 100;
+//	    dc.setClip(timeSecX -20, timeSecY - 20, 40, 60);
+//	    dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_RED);
+//	    dc.drawText(
+//	        timeSecX,                      // gets the width of the device and divides by 2
+//	        timeSecY,                     // gets the height of the device and divides by 2
+//	        Graphics.FONT_TINY,                    // sets the font size
+//	        secString,                          // the String to display
+//	        Graphics.TEXT_JUSTIFY_RIGHT            // sets the justification for the text
+//	        );
+//		System.println( "on partialUpdate call, sec = " + System.getClockTime().sec.format("%02d") );
+//		return;
+//	}
 }
 
